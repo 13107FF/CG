@@ -1,0 +1,548 @@
+newmtl default
+d 1
+Ns 1
+Ni 0
+Ka 1 1 1
+Kd 1 1 1
+Ks 1 1 1
+Km 0
+map_Kd fg.jpg
+
+newmtl default_pillar
+d 1
+Ns 1
+Ni 0
+Ka 0 0 0
+Kd 1 1 1
+Ks 1 1 1
+Km 0
+map_Kd derf1.png
+
+newmtl default_pipes
+d 1
+Ns 1
+Ni 0
+Ka 0 0 0
+Kd 1 1 1
+Ks 1 1 1
+Km 0
+map_Kd av1.jpg
+
+newmtl default_pipes2
+d 1
+Ns 1
+Ni 0
+Ka 0 0 0
+Kd 1 1 1
+Ks 1 1 1
+Km 0
+map_Kd av1.jpg
+
+newmtl default_top_lights
+d 1
+Ns 1
+Ni 0
+Ka 0 0 0
+Kd 1 1 1
+Ks 1 1 1
+Km 0
+map_Kd derf1.png
+
+newmtl default_filters
+d 1
+Ns 1
+Ni 0
+Ka 0 0 0
+Kd 1 1 1
+Ks 1 1 1
+Km 0
+map_Kd av1.jpg
+
+newmtl default_floor_pipes
+d 1
+Ns 1
+Ni 0
+Ka 0 0 0
+Kd 1 1 1
+Ks 1 1 1
+Km 0
+map_Kd cpp1.jpg
+
+newmtl default_pipe3
+d 1
+Ns 1
+Ni 0
+Ka 0 0 0
+Kd 1 1 1
+Ks 1 1 1
+Km 0
+map_Kd av1.jpg
+
+newmtl default_feeders
+d 1
+Ns 1
+Ni 0
+Ka 0 0 0
+Kd 1 1 1
+Ks 1 1 1
+Km 0
+map_Kd dr2.jpg
+
+newmtl default_recollectors
+d 1
+Ns 1
+Ni 0
+Ka 0 0 0
+Kd 1 1 1
+Ks 1 1 1
+Km 0
+map_Kd air_w1.jpg
+
+newmtl default_base
+d 1
+Ns 1
+Ni 0
+Ka 0 0 0
+Kd 1 1 1
+Ks 1 1 1
+Km 0
+map_Kd dr2b.jpg
+
+newmtl default_coil
+d 1
+Ns 1
+Ni 0
+Ka 0 0 0
+Kd 1 0 0
+Ks 1 1 1
+Km 0
+
+newmtl default_stair
+d 1
+Ns 1
+Ni 0
+Ka 0 0 0
+Kd 1 1 1
+Ks 1 1 1
+Km 0
+map_Kd xvq1.jpg
+
+newmtl default_screens
+d 1
+Ns 1
+Ni 0
+Ka 1 1 1
+Kd 1 1 1
+Ks 1 1 1
+Km 0
+map_Kd pn1.jpg
+
+newmtl default_computers
+d 1
+Ns 1
+Ni 0
+Ka 0 0 0
+Kd 1 1 1
+Ks 1 1 1
+Km 0
+map_Kd angar_bo4ka_07_02.jpg
+
+newmtl default_plant_distribution
+d 1
+Ns 1
+Ni 0
+Ka 1 1 1
+Kd 1 1 1
+Ks 1 1 1
+Km 0
+map_Kd av1.jpg
+
+newmtl default_pillar_plant_distribution
+d 1
+Ns 1
+Ni 0
+Ka 0 0 0
+Kd 1 1 1
+Ks 1 1 1
+Km 0
+map_Kd derf1.png
+
+newmtl default_pipes_plant_distribution
+d 1
+Ns 1
+Ni 0
+Ka 0 0 0
+Kd 1 1 1
+Ks 1 1 1
+Km 0
+map_Kd av1.jpg
+
+newmtl default_pipes2_plant_distribution
+d 1
+Ns 1
+Ni 0
+Ka 0 0 0
+Kd 1 1 1
+Ks 1 1 1
+Km 0
+map_Kd av1.jpg
+
+newmtl default_top_lights_plant_distribution
+d 1
+Ns 1
+Ni 0
+Ka 0 0 0
+Kd 1 1 1
+Ks 1 1 1
+Km 0
+map_Kd derf1.png
+
+newmtl default_filters_plant_distribution
+d 1
+Ns 1
+Ni 0
+Ka 0 0 0
+Kd 1 1 1
+Ks 1 1 1
+Km 0
+map_Kd av1.jpg
+
+newmtl default_floor_pipes_plant_distribution
+d 1
+Ns 1
+Ni 0
+Ka 0 0 0
+Kd 1 1 1
+Ks 1 1 1
+Km 0
+map_Kd cpp1.jpg
+
+newmtl default_pipe3_plant_distribution
+d 1
+Ns 1
+Ni 0
+Ka 0 0 0
+Kd 1 1 1
+Ks 1 1 1
+Km 0
+map_Kd av1.jpg
+
+newmtl default_feeders_plant_distribution
+d 1
+Ns 1
+Ni 0
+Ka 0 0 0
+Kd 1 1 1
+Ks 1 1 1
+Km 0
+map_Kd dr2.jpg
+
+newmtl default_recollectors_plant_distribution
+d 1
+Ns 1
+Ni 0
+Ka 0 0 0
+Kd 1 1 1
+Ks 1 1 1
+Km 0
+map_Kd air_w1.jpg
+
+newmtl default_base_plant_distribution
+d 1
+Ns 1
+Ni 0
+Ka 0 0 0
+Kd 1 1 1
+Ks 1 1 1
+Km 0
+map_Kd dr2b.jpg
+
+newmtl default_coil_plant_distribution
+d 1
+Ns 1
+Ni 0
+Ka 0 0 0
+Kd 1 0 0
+Ks 1 1 1
+Km 0
+
+newmtl default_stair_plant_distribution
+d 1
+Ns 1
+Ni 0
+Ka 0 0 0
+Kd 1 1 1
+Ks 1 1 1
+Km 0
+map_Kd xvq1.jpg
+
+newmtl default_screens_plant_distribution
+d 1
+Ns 1
+Ni 0
+Ka 1 1 1
+Kd 1 1 1
+Ks 1 1 1
+Km 0
+map_Kd pn1.jpg
+
+newmtl default_computers_plant_distribution
+d 1
+Ns 1
+Ni 0
+Ka 0 0 0
+Kd 1 1 1
+Ks 1 1 1
+Km 0
+map_Kd angar_bo4ka_07_02.jpg
+
+newmtl default_tank
+d 1
+Ns 1
+Ni 0
+Ka 0 0 0
+Kd 1 1 1
+Ks 1 1 1
+Km 0
+map_Kd xvq1.jpg
+
+newmtl default_tank_tank
+d 1
+Ns 1
+Ni 0
+Ka 0 0 0
+Kd 1 1 1
+Ks 1 1 1
+Km 0
+map_Kd fga2.jpg
+
+newmtl default_tubbing
+d 1
+Ns 1
+Ni 0
+Ka 0 0 0
+Kd 1 1 1
+Ks 1 1 1
+Km 0
+map_Kd dr2.jpg
+
+newmtl default_tank_1
+d 1
+Ns 1
+Ni 0
+Ka 0 0 0
+Kd 1 1 1
+Ks 1 1 1
+Km 0
+map_Kd xvq1.jpg
+
+newmtl default_tank_tank_1
+d 1
+Ns 1
+Ni 0
+Ka 0 0 0
+Kd 1 1 1
+Ks 1 1 1
+Km 0
+map_Kd fga2.jpg
+
+newmtl default_tubbing_tank
+d 1
+Ns 1
+Ni 0
+Ka 0 0 0
+Kd 1 1 1
+Ks 1 1 1
+Km 0
+map_Kd dr2.jpg
+
+newmtl default_plant_processor3
+d 1
+Ns 1
+Ni 0
+Ka 0 0 0
+Kd 0.74902 0.74902 0.556863
+Ks 1 1 1
+Km 0
+map_Kd dtg2.jpg
+
+newmtl default_panel
+d 1
+Ns 1
+Ni 0
+Ka 0 0 0
+Kd 1 1 1
+Ks 1 1 1
+Km 0
+map_Kd axcv1.jpg
+
+newmtl default_plant_processor
+d 1
+Ns 1
+Ni 0
+Ka 0 0 0
+Kd 0.247059 0.239216 0.286275
+Ks 1 1 1
+Km 0
+map_Kd av1.jpg
+
+newmtl default_plant_processor_1
+d 1
+Ns 1
+Ni 0
+Ka 0 0 0
+Kd 1 1 1
+Ks 1 1 1
+Km 0
+map_Kd av1.jpg
+
+newmtl default_panel_plant_processor
+d 1
+Ns 1
+Ni 0
+Ka 0 0 0
+Kd 1 1 1
+Ks 1 1 1
+Km 0
+map_Kd axcv1.jpg
+
+newmtl default_plant_processor_plant_processor
+d 1
+Ns 1
+Ni 0
+Ka 0 0 0
+Kd 0.247059 0.239216 0.286275
+Ks 1 1 1
+Km 0
+map_Kd av1.jpg
+
+newmtl default_plant_processor_2
+d 1
+Ns 1
+Ni 0
+Ka 0 0 0
+Kd 1 1 1
+Ks 1 1 1
+Km 0
+map_Kd av1.jpg
+
+newmtl default_panel_plant_processor_1
+d 1
+Ns 1
+Ni 0
+Ka 0 0 0
+Kd 1 1 1
+Ks 1 1 1
+Km 0
+map_Kd axcv1.jpg
+
+newmtl default_plant_processor_plant_processor_1
+d 1
+Ns 1
+Ni 0
+Ka 0 0 0
+Kd 0.247059 0.239216 0.286275
+Ks 1 1 1
+Km 0
+map_Kd av1.jpg
+
+newmtl default_lab
+d 1
+Ns 1
+Ni 0
+Ka 0 0 0
+Kd 0.494118 0.494118 0.364706
+Ks 1 1 1
+Km 0
+map_Kd av1.jpg
+
+newmtl default_grid_floor
+d 1
+Ns 1
+Ni 0
+Ka 0 0 0
+Kd 1 1 1
+Ks 1 1 1
+Km 0
+map_Kd antenna_04.jpg
+
+newmtl default_pillar_1
+d 1
+Ns 1
+Ni 0
+Ka 1 1 1
+Kd 1 1 1
+Ks 1 1 1
+Km 0
+map_Kd dvw1.jpg
+
+newmtl default_pillar_pillar
+d 1
+Ns 1
+Ni 0
+Ka 0 0 0
+Kd 1 1 1
+Ks 1 1 1
+Km 0
+map_Kd derf1.png
+
+newmtl default_plant_processor_3
+d 1
+Ns 1
+Ni 0
+Ka 0 0 0
+Kd 1 1 1
+Ks 1 1 1
+Km 0
+map_Kd av1.jpg
+
+newmtl default_panel_plant_processor_2
+d 1
+Ns 1
+Ni 0
+Ka 0 0 0
+Kd 1 1 1
+Ks 1 1 1
+Km 0
+map_Kd axcv1.jpg
+
+newmtl default_plant_processor_plant_processor_2
+d 1
+Ns 1
+Ni 0
+Ka 0 0 0
+Kd 0.247059 0.239216 0.286275
+Ks 1 1 1
+Km 0
+map_Kd av1.jpg
+
+newmtl default_computers2
+d 1
+Ns 1
+Ni 0
+Ka 1 1 1
+Kd 1 1 1
+Ks 1 1 1
+Km 0
+map_Kd dva1.jpg
+
+newmtl default_computers_computers2
+d 1
+Ns 1
+Ni 0
+Ka 0 0 0
+Kd 1 1 1
+Ks 1 1 1
+Km 0
+map_Kd angar_bo4ka_07_02.jpg
+
+newmtl default_pipe_system
+d 1
+Ns 1
+Ni 0
+Ka 0 0 0
+Kd 1 1 1
+Ks 1 1 1
+Km 0
+map_Kd sc1.jpg
+

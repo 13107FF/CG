@@ -1,0 +1,27 @@
+﻿  main.cpp
+E:\OneDrive\OneDrive - zju.edu.cn\2019_CG\1\Project\OpenGLlibs\Include\learnopengl\camera.h(44): warning C4305: “初始化”: 从“double”到“float”截断
+E:\OneDrive\OneDrive - zju.edu.cn\2019_CG\1\Project\OpenGLlibs\Include\learnopengl\mesh.h(90): warning C4267: “参数”: 从“size_t”转换到“GLsizei”，可能丢失数据
+E:\OneDrive\OneDrive - zju.edu.cn\2019_CG\1\Project\main.cpp(28): warning C4305: “初始化”: 从“double”到“float”截断
+E:\OneDrive\OneDrive - zju.edu.cn\2019_CG\1\Project\main.cpp(101): warning C4305: “初始化”: 从“double”到“float”截断
+E:\OneDrive\OneDrive - zju.edu.cn\2019_CG\1\Project\main.cpp(139): warning C4267: “=”: 从“size_t”转换到“unsigned int”，可能丢失数据
+E:\OneDrive\OneDrive - zju.edu.cn\2019_CG\1\Project\main.cpp(270): warning C4244: “参数”: 从“float”转换到“GLsizei”，可能丢失数据
+E:\OneDrive\OneDrive - zju.edu.cn\2019_CG\1\Project\main.cpp(272): warning C4244: “参数”: 从“float”转换到“GLsizei”，可能丢失数据
+E:\OneDrive\OneDrive - zju.edu.cn\2019_CG\1\Project\main.cpp(274): warning C4244: “参数”: 从“float”转换到“GLsizei”，可能丢失数据
+E:\OneDrive\OneDrive - zju.edu.cn\2019_CG\1\Project\main.cpp(350): warning C4305: “=”: 从“double”到“float”截断
+E:\OneDrive\OneDrive - zju.edu.cn\2019_CG\1\Project\main.cpp(378): warning C4305: “参数”: 从“double”到“float”截断
+E:\OneDrive\OneDrive - zju.edu.cn\2019_CG\1\Project\main.cpp(409): warning C4244: “初始化”: 从“double”转换到“float”，可能丢失数据
+E:\OneDrive\OneDrive - zju.edu.cn\2019_CG\1\Project\main.cpp(427): warning C4305: “参数”: 从“double”到“float”截断
+E:\OneDrive\OneDrive - zju.edu.cn\2019_CG\1\Project\main.cpp(429): warning C4305: “参数”: 从“double”到“float”截断
+E:\OneDrive\OneDrive - zju.edu.cn\2019_CG\1\Project\main.cpp(474): warning C4305: “参数”: 从“double”到“T”截断
+          with
+          [
+              T=float
+          ]
+E:\OneDrive\OneDrive - zju.edu.cn\2019_CG\1\Project\main.cpp(729): warning C4244: “=”: 从“double”转换到“float”，可能丢失数据
+E:\OneDrive\OneDrive - zju.edu.cn\2019_CG\1\Project\main.cpp(730): warning C4244: “=”: 从“double”转换到“float”，可能丢失数据
+E:\OneDrive\OneDrive - zju.edu.cn\2019_CG\1\Project\main.cpp(734): warning C4244: “初始化”: 从“double”转换到“float”，可能丢失数据
+E:\OneDrive\OneDrive - zju.edu.cn\2019_CG\1\Project\main.cpp(735): warning C4244: “初始化”: 从“double”转换到“float”，可能丢失数据
+E:\OneDrive\OneDrive - zju.edu.cn\2019_CG\1\Project\main.cpp(737): warning C4244: “=”: 从“double”转换到“float”，可能丢失数据
+E:\OneDrive\OneDrive - zju.edu.cn\2019_CG\1\Project\main.cpp(738): warning C4244: “=”: 从“double”转换到“float”，可能丢失数据
+E:\OneDrive\OneDrive - zju.edu.cn\2019_CG\1\Project\main.cpp(767): warning C4244: “参数”: 从“double”转换到“float”，可能丢失数据
+  Project.vcxproj -> E:\OneDrive\OneDrive - zju.edu.cn\2019_CG\1\Project\x64\Debug\Project.exe

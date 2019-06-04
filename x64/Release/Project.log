@@ -1,0 +1,33 @@
+﻿  main.cpp
+E:\OneDrive\OneDrive - zju.edu.cn\2019_CG\1\Project\OpenGLlibs\Include\learnopengl\camera.h(44): warning C4305: “初始化”: 从“double”到“float”截断
+E:\OneDrive\OneDrive - zju.edu.cn\2019_CG\1\Project\OpenGLlibs\Include\learnopengl\mesh.h(90): warning C4267: “参数”: 从“size_t”转换到“GLsizei”，可能丢失数据
+E:\OneDrive\OneDrive - zju.edu.cn\2019_CG\1\Project\main.cpp(28): warning C4305: “初始化”: 从“double”到“float”截断
+E:\OneDrive\OneDrive - zju.edu.cn\2019_CG\1\Project\main.cpp(101): warning C4305: “初始化”: 从“double”到“float”截断
+E:\OneDrive\OneDrive - zju.edu.cn\2019_CG\1\Project\main.cpp(139): warning C4267: “=”: 从“size_t”转换到“unsigned int”，可能丢失数据
+E:\OneDrive\OneDrive - zju.edu.cn\2019_CG\1\Project\main.cpp(270): warning C4244: “参数”: 从“float”转换到“GLsizei”，可能丢失数据
+E:\OneDrive\OneDrive - zju.edu.cn\2019_CG\1\Project\main.cpp(272): warning C4244: “参数”: 从“float”转换到“GLsizei”，可能丢失数据
+E:\OneDrive\OneDrive - zju.edu.cn\2019_CG\1\Project\main.cpp(274): warning C4244: “参数”: 从“float”转换到“GLsizei”，可能丢失数据
+E:\OneDrive\OneDrive - zju.edu.cn\2019_CG\1\Project\main.cpp(350): warning C4305: “=”: 从“double”到“float”截断
+E:\OneDrive\OneDrive - zju.edu.cn\2019_CG\1\Project\main.cpp(378): warning C4305: “参数”: 从“double”到“float”截断
+E:\OneDrive\OneDrive - zju.edu.cn\2019_CG\1\Project\main.cpp(409): warning C4244: “初始化”: 从“double”转换到“float”，可能丢失数据
+E:\OneDrive\OneDrive - zju.edu.cn\2019_CG\1\Project\main.cpp(427): warning C4305: “参数”: 从“double”到“float”截断
+E:\OneDrive\OneDrive - zju.edu.cn\2019_CG\1\Project\main.cpp(429): warning C4305: “参数”: 从“double”到“float”截断
+E:\OneDrive\OneDrive - zju.edu.cn\2019_CG\1\Project\main.cpp(474): warning C4305: “参数”: 从“double”到“T”截断
+          with
+          [
+              T=float
+          ]
+E:\OneDrive\OneDrive - zju.edu.cn\2019_CG\1\Project\main.cpp(729): warning C4244: “=”: 从“double”转换到“float”，可能丢失数据
+E:\OneDrive\OneDrive - zju.edu.cn\2019_CG\1\Project\main.cpp(730): warning C4244: “=”: 从“double”转换到“float”，可能丢失数据
+E:\OneDrive\OneDrive - zju.edu.cn\2019_CG\1\Project\main.cpp(734): warning C4244: “初始化”: 从“double”转换到“float”，可能丢失数据
+E:\OneDrive\OneDrive - zju.edu.cn\2019_CG\1\Project\main.cpp(735): warning C4244: “初始化”: 从“double”转换到“float”，可能丢失数据
+E:\OneDrive\OneDrive - zju.edu.cn\2019_CG\1\Project\main.cpp(737): warning C4244: “=”: 从“double”转换到“float”，可能丢失数据
+E:\OneDrive\OneDrive - zju.edu.cn\2019_CG\1\Project\main.cpp(738): warning C4244: “=”: 从“double”转换到“float”，可能丢失数据
+E:\OneDrive\OneDrive - zju.edu.cn\2019_CG\1\Project\main.cpp(767): warning C4244: “参数”: 从“double”转换到“float”，可能丢失数据
+LINK : warning LNK4098: 默认库“MSVCRTD”与其他库的使用冲突；请使用 /NODEFAULTLIB:library
+  正在生成代码
+  1 of 1161 functions (<0.1%) were compiled, the rest were copied from previous compilation.
+    0 functions were new in current compilation
+    8 functions had inline decision re-evaluated but remain unchanged
+  已完成代码的生成
+  Project.vcxproj -> E:\OneDrive\OneDrive - zju.edu.cn\2019_CG\1\Project\x64\Release\Project.exe
