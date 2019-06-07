@@ -414,6 +414,10 @@ int main()
 		// -----
 		processInput(window);
 
+		// if jump, change camera
+		if (camera.isJump)
+			camera.ProcessKeyboard(UP, deltaTime);
+
 		// render
 		// ------
 		glClearColor(0.1f, 0.1f, 0.1f, 1.0f);
@@ -706,6 +710,10 @@ void processInput(GLFWwindow * window)
 			heightScale += 0.0005f;
 		else
 			heightScale = 1.0f;
+	}
+	if (glfwGetKey(window, GLFW_KEY_SPACE) == GLFW_PRESS && !camera.isJump) {
+		camera.isJump = true;
+		camera.jumptime = 0.0;
 	}
 
 

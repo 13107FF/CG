@@ -12,7 +12,8 @@ enum Camera_Movement {
     FORWARD,
     BACKWARD,
     LEFT,
-    RIGHT
+    RIGHT,
+	UP
 };
 
 // Default camera values
@@ -21,6 +22,7 @@ const float PITCH       =  0.0f;
 const float SPEED       =  2.5f;
 const float SENSITIVITY =  0.1f;
 const float ZOOM        =  45.0f;
+const float JUMPSPEED = 5.0f;
 
 
 // An abstract camera class that processes input and calculates the corresponding Euler Angles, Vectors and Matrices for use in OpenGL
@@ -41,6 +43,7 @@ public:
     float MouseSensitivity;
     float Zoom;
 	bool isJump;
+	float jumptime;
 	float delta = 0.01;
 
     // Constructor with vectors
@@ -96,7 +99,17 @@ public:
             Position -= Right * velocity;
         if (direction == RIGHT)
             Position += Right * velocity;
-		Position.y = 0.0f;
+		//Position.y = 0.0f;
+		if (direction == UP) {
+			jumptime += deltaTime;
+			Position.y = JUMPSPEED * jumptime - 0.5 * 9.8 * jumptime * jumptime;
+		}
+		if (fabs(jumptime - (2.0 * JUMPSPEED / 9.8)) < 1e-2 && isJump) {
+			Position.y = 0.0f;
+			isJump = false;
+			jumptime = 0.0;
+		}
+		std::cout << Position.y << std::endl;
     }
 
     // Processes input received from a mouse input system. Expects the offset value in both the x and y direction.
